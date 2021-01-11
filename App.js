@@ -9,8 +9,8 @@ const main = (
     <h1 person="osoby" onClick={handleClick} className="red">Pierwszy artykul</h1>
     <p>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum facere
-      dolores possimus molestiae, est quas eaque enim reiciendis molestias nobis
-      nemo, corporis beatae repellendus repudiandae voluptas dicta maxime neque!
+      dolores possimus molestiae, est quas eaque senim reiciendis molestias nobis
+      nemo, corporis beataes repellendus repudiandae voluptas dicta maxime neque!
       Molestiae.
     </p>
   </div>
