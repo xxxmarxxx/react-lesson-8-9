@@ -1,3 +1,3 @@
 # Lesson 8-9 
 - lekcje bez npm start
-## hallo
+## hallo teraz
